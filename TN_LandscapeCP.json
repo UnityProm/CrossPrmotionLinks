@@ -1,15 +1,10 @@
 {
-    "Version": 2,
+    "Version": 1,
 
     "AppsList-Android": [
 	{
             "AppTitle": "FPSGunStrike",
             "IconUrl": "https://i.imgur.com/h0CMHOC.jpg",
-            "Id": "com.misols.offline.commando.combat.mission.adventure.survival3D"
-        },
-	    {
-            "AppTitle": "FPSGunStrike",
-            "IconUrl": "https://i.ibb.co/3S31KJX/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
             "Id": "com.misols.offline.commando.combat.mission.adventure.survival3D"
         }
     ],
