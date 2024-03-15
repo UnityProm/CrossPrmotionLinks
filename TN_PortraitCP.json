@@ -1,11 +1,22 @@
 {
-    "Version": 1,
+    "Version": 2,
 
     "AppsList-Android": [
 	{
-            "AppTitle": "GF - Monster Car Stunt Ramp",
-            "IconUrl": "https://i.ibb.co/Czb0LFC/MegaRamp.jpg",
-            "Id": "com.fair.monster.truck.stunt.car.games"
+            "AppTitle": "Police Chase",
+            "IconUrl": "https://i.ibb.co/HNV87C0/Police-Chase-Portriat-min.jpg",
+            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
+        },
+	    {
+            "AppTitle": "Police Chase",
+            "IconUrl": "https://i.ibb.co/wK0vD6W/Police-Chase-Portrait-CP-min.jpg",
+            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
+        }
+	    ,
+	    {
+            "AppTitle": "Vanguard",
+            "IconUrl": "https://i.ibb.co/GPhBzTT/Portrait-Vanguard-min.jpg",
+            "Id": "com.tn.light.speed.hero.vice.town.rpg.crime.city.fighting.open.world.games"
         }
     ],
 
