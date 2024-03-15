@@ -31,6 +31,15 @@
             "AppTitle": "EpicSavior",
             "IconUrl": "https://i.imgur.com/h0CMHOC.jpg",
             "Id": 6468876886
+        }, {
+            "AppTitle": "WarStrike",
+            "IconUrl": "https://i.ibb.co/3syy3tL/War-Strike-Landscape.jpg",
+            "Id": 6449296932
+        }
+	    , {
+            "AppTitle": "PoliceChase",
+            "IconUrl": "https://i.ibb.co/MgNbtdr/Pollice-Chase-Rectangle-CP-min.jpg",
+            "Id": 6446313164
         }
     ]
 }
