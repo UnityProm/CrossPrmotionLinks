@@ -1,5 +1,5 @@
 {
-    "Version": 1,
+    "Version": 2,
 
     "AppsList-Android": [
 	{
@@ -15,9 +15,15 @@
 	    ,
 	    {
             "AppTitle": "LightingVanguard",
-            "IconUrl": "https://i.ibb.co/MgNbtdr/Pollice-Chase-Rectangle-CP-min.jpg",
+            "IconUrl": "https://i.ibb.co/HGMrqXR/Landscape-CP-Lighting-min.jpg",
             "Id": "com.tn.light.speed.hero.vice.town.rpg.crime.city.fighting.open.world.games"
+        },
+	    {
+            "AppTitle": "Rope Hero",
+            "IconUrl": "https://i.ibb.co/sHNCV2K/Landscape-CP-Skyline-min.jpg",
+            "Id": "com.tng.ropehero.games.flyinghero.cityspider.vice.town.open.world"
         }
+	    
     ],
 
     "AppsList-iOS": [
