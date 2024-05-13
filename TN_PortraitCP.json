@@ -1,41 +1,11 @@
 {
-    "Version": 2,
+    "Version": 3,
 
     "AppsList-Android": [
-	{
-            "AppTitle": "Police Chase",
-            "IconUrl": "https://i.ibb.co/HNV87C0/Police-Chase-Portriat-min.jpg",
-            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
-        },
-	    {
-            "AppTitle": "Police Chase",
-            "IconUrl": "https://i.ibb.co/wK0vD6W/Police-Chase-Portrait-CP-min.jpg",
-            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
-        }
-	    ,
-	    {
-            "AppTitle": "Vanguard",
-            "IconUrl": "https://i.ibb.co/GPhBzTT/Portrait-Vanguard-min.jpg",
-            "Id": "com.tn.light.speed.hero.vice.town.rpg.crime.city.fighting.open.world.games"
-        }
-	    ,
-	    {
-            "AppTitle": "Warstrike",
-            "IconUrl": "https://i.ibb.co/VJ518zT/Shootting-Portrait.jpg",
-            "Id": "com.gs360.warstrike.shooting.games"
-        }
+	
     ],
 
     "AppsList-iOS": [
-        {
-            "AppTitle": "PoliceChase",
-            "IconUrl": "https://i.ibb.co/HNV87C0/Police-Chase-Portriat-min.jpg",
-            "Id": 6446313164
-        },
-	     {
-            "AppTitle": "Warstike",
-            "IconUrl": "https://i.ibb.co/VJ518zT/Shootting-Portrait.jpg",
-            "Id": 6449296932
-        }
+       
     ]
 }
