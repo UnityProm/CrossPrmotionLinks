@@ -6,6 +6,11 @@
             "AppTitle": "Pet Doctor",
             "IconUrl": "https://i.ibb.co/FqT7w4r/Cross-Promo-Pet-Doc-Landscape.jpg",
             "Id": "com.tgames.pet.doctor.hospital.tycoon.veterinary"
+        },
+	{
+            "AppTitle": "Police Duty",
+            "IconUrl": "https://i.ibb.co/MgNbtdr/Pollice-Chase-Rectangle-CP-min.jpg",
+            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
         }
 	    
     ],
