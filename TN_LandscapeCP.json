@@ -1,5 +1,5 @@
 {
-    "Version": 4,
+    "Version": 5,
 
     "AppsList-Android": [
 	{
@@ -9,7 +9,7 @@
         },
 	 {
             "AppTitle": "Police Simulator 2",
-            "IconUrl": "https://i.ibb.co/FqT7w4r/Cross-Promo-Pet-Doc-Landscape.jpg",
+            "IconUrl": "https://i.ibb.co/Kpr4stL0/Police2-Cross-Promo.png",
             "Id": "com.tnodes.police.simulator2"
         },
 	{
