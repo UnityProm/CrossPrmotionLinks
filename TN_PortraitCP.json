@@ -1,11 +1,16 @@
 {
-    "Version": 4,
+    "Version": 5,
 
     "AppsList-Android": [
 	{
             "AppTitle": "Pet Doctor",
             "IconUrl": "https://i.ibb.co/gvS361K/Cross-Promo-Pet-Doc-Portrait-min.jpg",
             "Id": "com.tgames.pet.doctor.hospital.tycoon.veterinary"
+        },
+	    {
+            "AppTitle": "Police Simulator 2",
+            "IconUrl": "https://i.ibb.co/GfN93pTQ/Police2-Portrait.png",
+            "Id": "com.tnodes.police.simulator2"
         },
 	{
             "AppTitle": "Police Duty",
