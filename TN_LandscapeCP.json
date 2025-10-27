@@ -1,5 +1,5 @@
 {
-    "Version": 5,
+    "Version": 6,
 
     "AppsList-Android": [
 	{
@@ -8,14 +8,14 @@
             "Id": "com.tgames.pet.doctor.hospital.tycoon.veterinary"
         },
 	 {
-            "AppTitle": "Police Simulator 2",
-            "IconUrl": "https://i.ibb.co/Kpr4stL0/Police2-Cross-Promo.png",
-            "Id": "com.tnodes.police.simulator2"
+            "AppTitle": "Odd Job Simulator",
+            "IconUrl": "https://i.ibb.co/wFL9W3YD/CPLandscape.png",
+            "Id": "com.tnodes.odd.job.simulator.open.world"
         },
 	{
-            "AppTitle": "Police Duty",
-            "IconUrl": "https://i.ibb.co/MgNbtdr/Pollice-Chase-Rectangle-CP-min.jpg",
-            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
+            "AppTitle": "City Bus",
+            "IconUrl": "https://i.ibb.co/XxMXqjcL/CPLandscape.png",
+            "Id": "com.tnodes.city.bus.simulator.open.world"
         }
 	    
     ],
@@ -24,3 +24,4 @@
        
     ]
 }
+
