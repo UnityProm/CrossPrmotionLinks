@@ -8,14 +8,14 @@
             "Id": "com.tgames.pet.doctor.hospital.tycoon.veterinary"
         },
 	    {
-            "AppTitle": "Police Simulator 2",
-            "IconUrl": "https://i.ibb.co/GfN93pTQ/Police2-Portrait.png",
-            "Id": "com.tnodes.police.simulator2"
+            "AppTitle": "Odd Job Simulator",
+            "IconUrl": "https://i.ibb.co/FLsgMRtw/CPPortrait.png",
+            "Id": "com.tnodes.odd.job.simulator.open.world"
         },
 	{
-            "AppTitle": "Police Duty",
-            "IconUrl": "https://i.ibb.co/HNV87C0/Police-Chase-Portriat-min.jpg",
-            "Id": "com.police.chase.open.world.vegas.crime.mafia.gangster.city.games"
+            "AppTitle": "City Bus",
+            "IconUrl": "https://i.ibb.co/fY9fyPWB/CPPortrait.png",
+            "Id": "com.tnodes.city.bus.simulator.open.world"
         }
     ],
 
@@ -23,3 +23,4 @@
        
     ]
 }
+
